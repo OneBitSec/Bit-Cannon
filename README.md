@@ -1,2 +1,2 @@
 # Bit-Cannon
-Here are some penetration testing tools commonly used by 1 bit teams
+一些OneBit安全团队常用的渗透测试工具

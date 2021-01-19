@@ -1,0 +1,10 @@
+tldextract
+colored
+argparse
+requests
+texttable
+keyboard
+termcolor
+goop
+lockfile
+Unidecode
